@@ -1,0 +1,12 @@
+print("Awsome");
+print(100);
+a=20;
+print a;
+
+fn vishal(int a){
+	x=10;
+	y=20;
+	return (x+y);
+}
+
+fn vishal();
